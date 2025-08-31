@@ -10,8 +10,8 @@ This is a personal portfolio website built with React and Vite, styled using Tai
 - Project showcase with live demos and source code links
 - About, Experience, and Contact sections
 
-  ## visit-us
-  <a href="https://github.com/Avdhesh-maurya/portfolio#readme" target="_blank">hosted on pythonanywhere.com</a>
+## 🌐 Visit Us  
+🔗 [Hosted on PythonAnywhere](https://avdhesh.pythonanywhere.com)
 
 ## Getting Started
 1. Clone the repository:
